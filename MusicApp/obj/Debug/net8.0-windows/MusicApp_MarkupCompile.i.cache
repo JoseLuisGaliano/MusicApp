@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\josel\OneDrive\Escritorio\informatica\SOFTWARE ENGINEERING\MusicAppProject\MusicApp\App.xaml
-4292593561
+61859053540
 
-19-1494342624
+23-897583450
 1991315283370
-Chat\MVVM\View\MainWindow.xaml;MainWindow.xaml;Search\SearchResultItemControl.xaml;Search\SearchWindow.xaml;
+Chat\MVVM\View\ChatWindow.xaml;LoginWindow.xaml;MainWindow.xaml;Profile\ProfileWindow.xaml;Search\SearchResultItemControl.xaml;Search\SearchWindow.xaml;
 
-False
+True
 

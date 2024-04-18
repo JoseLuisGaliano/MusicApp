@@ -1,4 +1,4 @@
-﻿<Window x:Class="MusicApp.Chat.MVVM.View.MainWindow"
+﻿<Window x:Class="MusicApp.Chat.MVVM.View.ChatWindow"
         Title="Chat"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"

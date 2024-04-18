@@ -30,8 +30,15 @@ namespace MusicApp
 
         private void GoToChat(object sender, RoutedEventArgs e)
         {
-            Chat.MVVM.View.MainWindow chatWindow = new Chat.MVVM.View.MainWindow();
+            Chat.MVVM.View.ChatWindow chatWindow = new Chat.MVVM.View.ChatWindow();
             chatWindow.Show();
+            Close();
+        }
+
+        private void GoToProfile(object sender, RoutedEventArgs e)
+        {
+            Profile.ProfileWindow profileWindow = new Profile.ProfileWindow();
+            profileWindow.Show();
             Close();
         }
     }

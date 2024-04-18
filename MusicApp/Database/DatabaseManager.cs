@@ -8,12 +8,80 @@ using System.Data.SqlClient;
 using System.Collections;
 using System.Data;
 using System.Windows.Media;
+using System.Xml.Linq;
+using System.Windows;
 
 namespace MusicApp.Database
 {
     public static class DatabaseManager
     {
         private const string connectionString = "Data Source=LAPTOP-85QOQ2U8;Initial Catalog = Search Item Database; Integrated Security = True";
+
+        public static bool RegisterUser(string username, string password, string salt)
+        {
+            try
+            {
+                using (SqlConnection connection = new SqlConnection(connectionString))
+                {
+                    connection.Open();
+
+                    string query = "INSERT INTO [USER] (userName, profilePicture, subscriptionPlan, hashedPassword, salt) VALUES (@userName, @profilePicture, @subscriptionPlan, @hashedPassword, @salt);";
+                    SqlCommand command = new SqlCommand(query, connection);
+                    command.Parameters.AddWithValue("@userName", username);
+                    command.Parameters.AddWithValue("@profilePicture", "");
+                    command.Parameters.AddWithValue("@subscriptionPlan", "");
+                    command.Parameters.AddWithValue("@hashedPassword", password);
+                    command.Parameters.AddWithValue("@salt", salt);
+                    command.ExecuteNonQuery();
+
+                    connection.Close();
+                }
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine("Error while inserting values in the database: " + ex.Message);
+                return false;
+            }
+
+            return true;
+        }
+
+        public static (string, string) GetCredentials(string username)
+        {
+            try
+            {
+                using (SqlConnection connection = new SqlConnection(connectionString))
+                {
+                    connection.Open();
+
+                    string query = "SELECT hashedPassword, salt FROM [USER] WHERE userName = '" + username + "';";
+
+                    SqlCommand command = new SqlCommand(query, connection);
+                    using (SqlDataReader reader = command.ExecuteReader())
+                    {
+                        if (reader.Read())
+                        {
+                            string hashedPassword = reader.GetString(0);
+                            string salt = reader.GetString(1);
+
+                            return (hashedPassword, salt);
+                        }
+                        else
+                        {
+                            MessageBox.Show("No user found with the specified username.", "Warning", MessageBoxButton.OK);
+                        }
+                    }
+
+                    connection.Close();
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error while inserting values in the database: " + ex.Message);
+            }
+
+            return ("", "");
+        }
 
         public static List<Search.SearchResultItemControl> LoadUserSearchItems(List<Search.SearchResultItemControl> searchItems)
         {

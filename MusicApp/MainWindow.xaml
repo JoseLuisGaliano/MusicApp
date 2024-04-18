@@ -10,6 +10,7 @@
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20">
             <Button Content="Go to Search" Width="120" Height="40"  Click="GoToSearch"/>
             <Button Content="Go to Chat" Width="120" Height="40" Click="GoToChat"/>
+            <Button Content="Go to Profile" Width="120" Height="40" Click="GoToProfile"/>
         </StackPanel>
     </Grid>
 </Window>
