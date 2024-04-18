@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\search\\searchwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:search\\searchwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111F793F-20D0-424E-8A0C-F460209374E2}|..\\ChatServer\\ChatServer.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\chatserver\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111F793F-20D0-424E-8A0C-F460209374E2}|..\\ChatServer\\ChatServer.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\chatserver\\net\\io\\packetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\musicapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:musicapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\chat\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:chat\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\chat\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:chat\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\obj\\Debug\\net8.0-windows\\Chat\\MVVM\\View\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows\\Chat\\MVVM\\View\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\chat\\net\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:chat\\net\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\chat\\net\\io\\packetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:chat\\net\\io\\packetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\chat\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:chat\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\chat\\mvvm\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:chat\\mvvm\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\chat\\mvvm\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:chat\\mvvm\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\chat\\mvvm\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:chat\\mvvm\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\search\\searchwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:search\\searchwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\obj\\Debug\\net8.0-windows\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\security\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:security\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\search\\sorters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:search\\sorters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\search\\searchresultitemcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:search\\searchresultitemcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\search\\searchresultitemcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:search\\searchresultitemcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\search\\levenshteindistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:search\\levenshteindistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|c:\\users\\josel\\onedrive\\escritorio\\informatica\\software engineering\\musicappproject\\musicapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46D610E0-6594-482E-B894-64E5C3794DBA}|MusicApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\ChatServer\\Client.cs",
+              "RelativeDocumentMoniker": "..\\ChatServer\\Client.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\ChatServer\\Client.cs",
+              "RelativeToolTip": "..\\ChatServer\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:14:57.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacketBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\ChatServer\\Net\\IO\\PacketBuilder.cs",
+              "RelativeDocumentMoniker": "..\\ChatServer\\Net\\IO\\PacketBuilder.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\ChatServer\\Net\\IO\\PacketBuilder.cs",
+              "RelativeToolTip": "..\\ChatServer\\Net\\IO\\PacketBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:14:50.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\MVVM\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Chat\\MVVM\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\MVVM\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "Chat\\MVVM\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:06:44.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T05:19:21.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Search\\SearchWindow.xaml",
+              "RelativeDocumentMoniker": "Search\\SearchWindow.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Search\\SearchWindow.xaml",
+              "RelativeToolTip": "Search\\SearchWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T05:28:18.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:12:06.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\MVVM\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Chat\\MVVM\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\MVVM\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Chat\\MVVM\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T06:03:59.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\obj\\Debug\\net8.0-windows\\Chat\\MVVM\\View\\MainWindow.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\Chat\\MVVM\\View\\MainWindow.g.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\obj\\Debug\\net8.0-windows\\Chat\\MVVM\\View\\MainWindow.g.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-windows\\Chat\\MVVM\\View\\MainWindow.g.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAWwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:12:03.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\Net\\Server.cs",
+              "RelativeDocumentMoniker": "Chat\\Net\\Server.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\Net\\Server.cs",
+              "RelativeToolTip": "Chat\\Net\\Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:09:09.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PacketBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\Net\\IO\\PacketBuilder.cs",
+              "RelativeDocumentMoniker": "Chat\\Net\\IO\\PacketBuilder.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\Net\\IO\\PacketBuilder.cs",
+              "RelativeToolTip": "Chat\\Net\\IO\\PacketBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:09:20.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusicApp.csproj",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\MusicApp.csproj",
+              "RelativeDocumentMoniker": "MusicApp.csproj",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\MusicApp.csproj",
+              "RelativeToolTip": "MusicApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T05:16:48.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PacketReader.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\Net\\IO\\PacketReader.cs",
+              "RelativeDocumentMoniker": "Chat\\Net\\IO\\PacketReader.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\Net\\IO\\PacketReader.cs",
+              "RelativeToolTip": "Chat\\Net\\IO\\PacketReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:09:33.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\MVVM\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "Chat\\MVVM\\Model\\UserModel.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\MVVM\\Model\\UserModel.cs",
+              "RelativeToolTip": "Chat\\MVVM\\Model\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:04:38.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\MVVM\\Core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Chat\\MVVM\\Core\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\MVVM\\Core\\RelayCommand.cs",
+              "RelativeToolTip": "Chat\\MVVM\\Core\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:04:14.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\MVVM\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Chat\\MVVM\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Chat\\MVVM\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Chat\\MVVM\\View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:04:04.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\obj\\Debug\\net8.0-windows\\MainWindow.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\MainWindow.g.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\obj\\Debug\\net8.0-windows\\MainWindow.g.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-windows\\MainWindow.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:44:35.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SearchWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Search\\SearchWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Search\\SearchWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Search\\SearchWindow.xaml.cs",
+              "RelativeToolTip": "Search\\SearchWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:28:26.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:41:21.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Database\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Database\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Database\\DatabaseManager.cs",
+              "RelativeToolTip": "Database\\DatabaseManager.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAAAMIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:30:26.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Security.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Security\\Security.cs",
+              "RelativeDocumentMoniker": "Security\\Security.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Security\\Security.cs",
+              "RelativeToolTip": "Security\\Security.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:27:08.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Sorters.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Search\\Sorters.cs",
+              "RelativeDocumentMoniker": "Search\\Sorters.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Search\\Sorters.cs",
+              "RelativeToolTip": "Search\\Sorters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:28:25.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SearchResultItemControl.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Search\\SearchResultItemControl.xaml",
+              "RelativeDocumentMoniker": "Search\\SearchResultItemControl.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Search\\SearchResultItemControl.xaml",
+              "RelativeToolTip": "Search\\SearchResultItemControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T05:28:09.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SearchResultItemControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Search\\SearchResultItemControl.xaml.cs",
+              "RelativeDocumentMoniker": "Search\\SearchResultItemControl.xaml.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Search\\SearchResultItemControl.xaml.cs",
+              "RelativeToolTip": "Search\\SearchResultItemControl.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:27:53.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LevenshteinDistance.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Search\\LevenshteinDistance.cs",
+              "RelativeDocumentMoniker": "Search\\LevenshteinDistance.cs",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\Search\\LevenshteinDistance.cs",
+              "RelativeToolTip": "Search\\LevenshteinDistance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:27:30.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\josel\\OneDrive\\Escritorio\\informatica\\SOFTWARE ENGINEERING\\MusicAppProject\\MusicApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T05:15:10.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

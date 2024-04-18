@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UseWPF>true</UseWPF>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Folder Include="Search\" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Remove="Search\images\artist_photo.png" />
+		<None Remove="Search\images\default.jpg" />
+		<None Remove="Search\images\profile_pic.jpg" />
+		<None Remove="Search\images\taylor.jpg" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Resource Include="Search\images\artist_photo.png" />
+		<Resource Include="Search\images\default.jpg" />
+		<Resource Include="Search\images\profile_pic.jpg" />
+		<Resource Include="Search\images\taylor.jpg" />
+	</ItemGroup>
+
+</Project>
