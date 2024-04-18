@@ -9,6 +9,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+		<Folder Include="Payment\" />
 		<Folder Include="Search\" />
 	</ItemGroup>
 
@@ -28,6 +29,22 @@
 		<Resource Include="Search\images\default.jpg" />
 		<Resource Include="Search\images\profile_pic.jpg" />
 		<Resource Include="Search\images\taylor.jpg" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Remove="Payment\Images\email_icon.png" />
+		<None Remove="Payment\Images\phone_icon.png" />
+		<None Remove="Payment\profile_pic.jpg" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Stripe.net" Version="44.2.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Resource Include="Payment\Images\email_icon.png" />
+		<Resource Include="Payment\Images\phone_icon.png" />
+		<Resource Include="Payment\Images\profile_pic.jpg" />
 	</ItemGroup>
 
 </Project>

@@ -3,7 +3,6 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:MusicApp.Search"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
@@ -11,6 +10,7 @@
             <Button Content="Go to Search" Width="120" Height="40"  Click="GoToSearch"/>
             <Button Content="Go to Chat" Width="120" Height="40" Click="GoToChat"/>
             <Button Content="Go to Profile" Width="120" Height="40" Click="GoToProfile"/>
+            <Button Content="Go to Payment" Width="120" Height="40" Click="GoToPayment"/>
         </StackPanel>
     </Grid>
 </Window>
