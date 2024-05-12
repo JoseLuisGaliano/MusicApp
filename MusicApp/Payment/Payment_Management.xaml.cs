@@ -1,17 +1,5 @@
-﻿using Stripe;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
+﻿using System.Windows;
+using Stripe;
 
 namespace MusicApp.Payment
 {
@@ -19,13 +7,12 @@ namespace MusicApp.Payment
     /// Lógica de interacción para Payment_Management.xaml
     /// </summary>
     public partial class Payment_Management : Window
-
     {
         public SubscriptionOption CurrentSubscription { get; set; }
-        bool visa = true; 
+        private bool visa = true;
 
         public Payment_Management()
-        { 
+        {
             InitializeComponent();
 
             CurrentSubscription = new SubscriptionOption { Description = "$4.95/month" }; // Valor predeterminado
@@ -34,7 +21,7 @@ namespace MusicApp.Payment
 
         public void UpdateSubscription(string description)
         {
-            if(CurrentSubscription != null)
+            if (CurrentSubscription != null)
             {
                 CurrentSubscription.Description = description;
             }
@@ -70,7 +57,6 @@ namespace MusicApp.Payment
 
                 // Now stripeToken contains the token object which you can send to your server
                 // Your payment logic here
-
                 MessageBox.Show("Payment Successful!");
             }
             catch (Exception ex)
@@ -114,7 +100,6 @@ namespace MusicApp.Payment
                 var paymentIntentService = new PaymentIntentService();
                 PaymentIntent paymentIntent = paymentIntentService.Create(paymentIntentOptions);
 
-                
 
                 MessageBox.Show("Pago iniciado, ID del PaymentIntent: " + paymentIntent.Id);
             }
@@ -126,7 +111,5 @@ namespace MusicApp.Payment
 
         }
         */
-
     }
-
 }

@@ -7,20 +7,20 @@ using System.Threading.Tasks;
 
 namespace ChatServer.Net.IO
 {
-    class PacketReader : BinaryReader
+    internal class PacketReader : BinaryReader
     {
-        private NetworkStream _ns;
+        private NetworkStream ns;
         public PacketReader(NetworkStream ns) : base(ns)
         {
-            _ns = ns;
+            this.ns = ns;
         }
 
-        public String ReadMessage()
+        public string ReadMessage()
         {
             byte[] msgBuffer;
             var length = ReadInt32();
             msgBuffer = new byte[length];
-            _ns.Read(msgBuffer, 0, length);
+            ns.Read(msgBuffer, 0, length);
 
             var msg = Encoding.ASCII.GetString(msgBuffer);
 

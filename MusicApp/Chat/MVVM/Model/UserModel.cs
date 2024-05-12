@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace MusicApp.Chat.MVVM.Model
 {
-    class UserModel
+    internal class UserModel
     {
         public string UserName { get; set; }
         public string UID { get; set; }
-
-
     }
 }

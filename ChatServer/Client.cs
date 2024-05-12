@@ -1,33 +1,25 @@
-﻿using ChatServer.Net.IO;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Quic;
-using System.Net.Sockets;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Net.Sockets;
+using ChatServer.Net.IO;
 
 namespace ChatServer
 {
-    class Client
+    internal class Client
     {
-        public String Username { get; set; }
+        public string Username { get; set; }
         public Guid UID { get; set; }
-        public TcpClient ClientSocket {  get; set; }
+        public TcpClient ClientSocket { get; set; }
+        public PacketReader PacketReader;
 
-        PacketReader _packetReader;
-
-
-        public Client (TcpClient client)
+        public Client(TcpClient client)
         {
             ClientSocket = client;
             UID = Guid.NewGuid();
-            _packetReader = new PacketReader(ClientSocket.GetStream());
-            var opcode = _packetReader.ReadByte();
+            PacketReader = new PacketReader(ClientSocket.GetStream());
+            var opcode = PacketReader.ReadByte();
             // This operation code correspond to the receiving of the packet in the server
             if (opcode == 0)
             {
-                Username = _packetReader.ReadMessage();
+                Username = PacketReader.ReadMessage();
                 Console.WriteLine($"[{DateTime.Now}]: Client has connected with the username: {Username}");
             }
             else
@@ -38,17 +30,17 @@ namespace ChatServer
             Task.Run(() => Process());
         }
 
-        void Process()
+        public void Process()
         {
-            while(true)
+            while (true)
             {
                 try
                 {
-                    var opcode = _packetReader.ReadByte();
+                    var opcode = PacketReader.ReadByte();
                     switch (opcode)
                     {
                         case 2:
-                            var msg = _packetReader.ReadMessage();
+                            var msg = PacketReader.ReadMessage();
                             Console.WriteLine($"[{DateTime.Now}]: Message Received! {msg}");
                             Program.BroadcastMessage($"[{DateTime.Now}]: [{Username}]: {msg}");
                             break;
@@ -61,10 +53,8 @@ namespace ChatServer
                     Console.WriteLine($"[{UID.ToString()}]: Has disconnected!");
                     Program.BroadcastDisconnect(UID.ToString());
                     ClientSocket.Close();
-
                 }
             }
         }
-
     }
 }

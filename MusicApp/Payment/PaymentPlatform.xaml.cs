@@ -24,41 +24,34 @@ namespace MusicApp.Payment
             InitializeComponent();
         }
 
-
-        private void ManagePaymentMethods_Click(object sender, RoutedEventArgs e) { 
-        
+        private void ManagePaymentMethods_Click(object sender, RoutedEventArgs e)
+        {
             // Instance for showing the window:
             var payment_Management = new Payment_Management();
             // Window show:
             payment_Management.Show();
-
         }
 
         private void ManageSubscription_Click(object sender, RoutedEventArgs e)
         {
             var manage_Subscription = new ManageSubscription();
             manage_Subscription.Show();
-
         }
 
         private void Cancel_Subscription_Click(object sender, RoutedEventArgs e)
         {
             var cancel_Subscription = new Cancel_Subscription();
             cancel_Subscription.Show();
-
         }
 
         private void Download_Click(object sender, RoutedEventArgs e)
         {
-
         }
 
-       
         private void ContactSupport_Click(object sender, RoutedEventArgs e)
         {
             var contact_Support = new ContactSupport();
             contact_Support.Show();
         }
-
     }
 }

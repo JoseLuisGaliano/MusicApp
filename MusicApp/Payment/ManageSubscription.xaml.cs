@@ -19,7 +19,7 @@ namespace MusicApp.Payment
     /// </summary>
     public partial class ManageSubscription : Window
     {
-        private String subscription_type = "";
+        private string subscription_type = string.Empty;
 
         public ManageSubscription()
         {
@@ -45,8 +45,6 @@ namespace MusicApp.Payment
                 subscriptionOption.Description = "$4.95/month";
                 OpenPaymentManagement(subscriptionOption.Description);
             }
-
-
         }
 
         private void ThreeMonthPlan_Click(object sender, RoutedEventArgs e)
@@ -58,8 +56,6 @@ namespace MusicApp.Payment
                 subscriptionOption.Description = "$12.99 for 3 months";
                 OpenPaymentManagement(subscriptionOption.Description);
             }
-
-
         }
 
         private void SixMonthPlan_Click(object sender, RoutedEventArgs e)
@@ -71,9 +67,7 @@ namespace MusicApp.Payment
                 subscriptionOption.Description = "$22.90 for 6 months";
                 OpenPaymentManagement(subscriptionOption.Description);
             }
-
         }
-
 
         private void YearlyPlan_Click(object sender, RoutedEventArgs e)
         {
@@ -84,9 +78,6 @@ namespace MusicApp.Payment
                 subscriptionOption.Description = "$39.95/year";
                 OpenPaymentManagement(subscriptionOption.Description);
             }
-
         }
-
-        
     }
 }
